@@ -1,0 +1,4 @@
+Configuration file for using Emacs. 
+This file goes in the following path:
+
+~/.emacs.d/init.el
